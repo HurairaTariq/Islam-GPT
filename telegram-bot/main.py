@@ -87,7 +87,7 @@ def telegram_bot_update(update: Update, context: CallbackContext):
 def run_telegram_bot():
     print("Thread started")
     # Set your Telegram bot token here
-    TOKEN = "6499014160:AAHywGD6UPGOaA9ANf6DBNPazL2zBcydX_c"
+    TOKEN = "*********************************"
 
     # Create the Telegram Bot
     bot = Bot(token=TOKEN)
